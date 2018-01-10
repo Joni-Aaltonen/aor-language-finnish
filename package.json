@@ -1,0 +1,27 @@
+{
+  "name": "aor-language-finnish",
+  "version": "1.0.0",
+  "description": "Finnish translation for admin-on-rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Joni-Aaltonen/aor-language-finnish.git"
+  },
+  "keywords": [
+    "admin-on-rest",
+    "finnish"
+  ],
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "author": "Joni Aaltonen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joni-Aaltonen/aor-language-finnish/issues"
+  },
+  "homepage": "https://github.com/Joni-Aaltonen/aor-language-finnish#readme"
+}
