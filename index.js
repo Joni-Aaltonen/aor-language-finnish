@@ -23,7 +23,7 @@ export default {
             show: '%{name} #%{id}',
             create: 'Uusi %{name}',
             delete: 'Poista %{name} #%{id}',
-            dashboard: 'Dashboard',
+            dashboard: 'Etusivu',
             not_found: 'Ei löytynyt',
         },
         input: {
