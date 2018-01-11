@@ -1,6 +1,6 @@
 {
   "name": "aor-language-finnish",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Finnish translation for admin-on-rest",
   "main": "index.js",
   "scripts": {
